@@ -1,0 +1,13 @@
+﻿body
+{
+    my-list {
+                margin: 0 auto;
+                padding: 8px 24px;
+                width:500px;
+                font-size: 30px;
+            }
+    h1{
+        border:1px solid red;
+        box-shadow: white
+      }
+}
